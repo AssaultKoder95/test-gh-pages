@@ -1,5 +1,10 @@
 ### Steps
 
+- Fork either of these repos `https://github.com/Yog9/SnapShot` OR `https://github.com/AssaultKoder95/test-gh-pages`
+- remove the original `.git` folder
+- Initialize the repo with git again `git init`
+- Create a repo on github name `deploy-static-website-pavo-<your name>`
+- Add the remote url to the local repo using the following commands `git remote add origin <your repo link>`
 - Install `gh-pages` package using `npm install gh-pages --save-dev`
 - Add `homepage` property in your package.json file
 
