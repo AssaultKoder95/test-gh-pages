@@ -27,3 +27,6 @@
         "deploy": "gh-pages -d build"
    }
 ```
+
+- Run the following command : `npm run deploy`
+- That's it, you should be able to see your website at `https://assaultkoder95.github.io/test-gh-pages`
